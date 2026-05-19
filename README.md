@@ -1,4 +1,5 @@
 # Kotik VPN Store
+<img width="1254" height="1254" alt="ChatGPT Image 18 мая 2026 г , 17_02_08" src="https://github.com/user-attachments/assets/6e939a21-2bdd-4e83-993b-0a0ae6d992ce" />
 
 Public download and presentation repository for Kotik VPN APK releases.
 
