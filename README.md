@@ -19,3 +19,4 @@
 - NEXT APK: `ru.kotik.vpn`
 - Страница: https://ciso-gsecurity.github.io/kotik-vpn-store/
 - Релиз: https://github.com/ciso-gsecurity/kotik-vpn-store/releases/tag/v0.6.78
+<img width="1536" height="1024" alt="NL-cat" src="https://github.com/user-attachments/assets/98c2075b-1577-4591-9ca1-f48ace0b194e" />
