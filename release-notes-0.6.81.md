@@ -2,6 +2,8 @@
 
 Публичный hotfix для BLUE-ноды.
 
+> Superseded: `0.6.82` возвращает BLUE на строгий KotikDNS/MasterDnsVPN путь без VLESS fallback.
+
 - BLUE больше не останавливается на внутреннем MasterDnsVPN runtime guard.
 - BLUE выбирает FIN-01 Reality/VLESS профиль из bootstrap-подписки.
 - Endpoint FIN-01 сохраняется как `fin01.b.lets-mobile.ru:443` и не переписывается на DNS-порт `53`.
