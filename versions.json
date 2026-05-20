@@ -1,36 +1,36 @@
 {
-  "latest_version": "0.6.80-compat-release",
-  "updated_at": "2026-05-19T20:10:00Z",
+  "latest_version": "0.6.81-compat-release",
+  "updated_at": "2026-05-20T00:52:00Z",
   "homepage": "https://ciso-gsecurity.github.io/kotik-vpn-store/",
-  "release_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/tag/v0.6.80",
+  "release_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/tag/v0.6.81",
   "versions": [
     {
-      "version": "0.6.80-compat-release",
-      "version_name": "0.6.80-compat",
-      "version_code": 97,
+      "version": "0.6.81-compat-release",
+      "version_name": "0.6.81-compat",
+      "version_code": 98,
       "track": "compat",
       "package_name": "ru.letsmobile.vpn",
-      "apk_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/latest/download/KotikVPN-0.6.80-compat-release.apk",
+      "apk_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/latest/download/KotikVPN-0.6.81-compat-release.apk",
       "mirrors": [
         "https://kotik.lets-mobile.ru/downloads/latest.apk",
         "https://vpn.lets-mobile.ru/downloads/latest.apk"
       ],
-      "size": 168648216,
-      "sha256": "d6b44c1f839b3aec9b1af814b486105dab95f3e8b395997f6081677ccc263933"
+      "size": 168647484,
+      "sha256": "4f767a2a1e3f6e02e6cbb7877488c0b287025c85978b98b916d77b8a49c5e52d"
     },
     {
-      "version": "0.6.80-next-release",
-      "version_name": "0.6.80-next",
-      "version_code": 97,
+      "version": "0.6.81-next-release",
+      "version_name": "0.6.81-next",
+      "version_code": 98,
       "track": "next",
       "package_name": "ru.kotik.vpn",
-      "apk_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/latest/download/KotikVPN-0.6.80-next-release.apk",
+      "apk_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/latest/download/KotikVPN-0.6.81-next-release.apk",
       "mirrors": [
         "https://kotik.lets-mobile.ru/downloads/latest-next.apk",
         "https://vpn.lets-mobile.ru/downloads/latest-next.apk"
       ],
-      "size": 168647960,
-      "sha256": "5af0e1bac3b13b1f36f44c4fc4c99517d4a8739a2df120bedf532f7658142349"
+      "size": 168647220,
+      "sha256": "f42a27488c047a8e8c5cb536288739f9bd11a6bce76a245f1878433e976ea9d4"
     }
   ]
 }
