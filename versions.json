@@ -1,9 +1,37 @@
 {
-  "latest_version": "0.6.87-compat-release",
-  "updated_at": "2026-05-20T18:27:00Z",
+  "latest_version": "0.6.89-compat-release",
+  "updated_at": "2026-05-21T05:00:00Z",
   "homepage": "https://ciso-gsecurity.github.io/kotik-vpn-store/",
-  "release_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/tag/v0.6.87",
+  "release_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/tag/v0.6.89",
   "versions": [
+    {
+      "version": "0.6.89-compat-release",
+      "version_name": "0.6.89-compat",
+      "version_code": 106,
+      "track": "compat",
+      "package_name": "ru.letsmobile.vpn",
+      "apk_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/latest/download/KotikVPN-0.6.89-compat-release.apk",
+      "mirrors": [
+        "https://kotik.lets-mobile.ru/downloads/latest.apk",
+        "https://vpn.lets-mobile.ru/downloads/latest.apk"
+      ],
+      "size": 185625369,
+      "sha256": "2c29f5d4e8a5f44b752aaf5b93f76426d9b2dd5b4abb629d8d8653abf91d4717"
+    },
+    {
+      "version": "0.6.89-next-release",
+      "version_name": "0.6.89-next",
+      "version_code": 106,
+      "track": "next",
+      "package_name": "ru.kotik.vpn",
+      "apk_url": "https://github.com/ciso-gsecurity/kotik-vpn-store/releases/latest/download/KotikVPN-0.6.89-next-release.apk",
+      "mirrors": [
+        "https://kotik.lets-mobile.ru/downloads/latest-next.apk",
+        "https://vpn.lets-mobile.ru/downloads/latest-next.apk"
+      ],
+      "size": 185625101,
+      "sha256": "4adf67056a21fc32d49e3ba2587da83b0520cadbcc4faec2856f5d368dad22ee"
+    },
     {
       "version": "0.6.87-compat-release",
       "version_name": "0.6.87-compat",
